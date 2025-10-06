@@ -1,0 +1,3 @@
+/*.vcf
+  Content-Type: text/vcard
+  Content-Disposition: attachment; filename="%{request_path}.vcf"
