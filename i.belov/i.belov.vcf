@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Белов;Игорь;;;
+FN:Игорь Белов
+ORG:ООО "ФастЭйр Интернешнл"
+TITLE:Инженер технической поддержки
+TEL;TYPE=WORK,VOICE:+7-925-465-0124
+TEL;TYPE=CELL:+7-495-120-0300
+EMAIL:i.belov@fastair.ru
+URL:https://fastair.ru
+ADR:;;Москва;тер. Инновационного Центра Сколково;ул. Сикорского, д. 11;121205;Россия
+END:VCARD
