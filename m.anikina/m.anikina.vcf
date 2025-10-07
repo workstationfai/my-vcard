@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Аникина;Марина;;;
+FN:Марина Аникина
+ORG:ООО "ФастЭйр Интернешнл"
+TITLE:Региональный менеджер по продажам
+TEL;TYPE=WORK,VOICE:+7-495-120-0300
+TEL;TYPE=CELL:+7-925-036-16-83
+EMAIL:m.anikina@fastair.ru
+URL:https://fastair.ru
+ADR:;;Москва,;тер. Инновационного Центра Сколково,;ул. Сикорского, д. 11,;121205;Россия
+END:VCARD
