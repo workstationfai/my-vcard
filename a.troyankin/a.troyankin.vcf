@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Троянкин;Александр;;;
+FN:Александр Троянкин
+ORG:ООО "ФастЭйр Интернешнл"
+TITLE:Коммерческий директор
+TEL;TYPE=WORK,VOICE:+7-495-120-0300
+TEL;TYPE=CELL:+7-929-570-50-55
+EMAIL:a.troyankin@fastair.ru
+URL:https://fastair.ru
+ADR:;;Москва,;тер. Инновационного Центра Сколково,;ул. Сикорского, д. 11,;121205;Россия
+END:VCARD
