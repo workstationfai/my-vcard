@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Малышева;Алина;;;
+FN:Алина Малышева
+ORG:ООО "ФастЭйр Интернешнл"
+TITLE:Бизнес-ассистент
+TEL;TYPE=WORK,VOICE:+7-495-120-0300
+TEL;TYPE=CELL:+7-926-996-32-63
+EMAIL:ba@fastair.ru
+URL:https://fastair.ru
+ADR:;;Москва,;тер. Инновационного Центра Сколково,;ул. Сикорского, д. 11,;121205;Россия
+END:VCARD
