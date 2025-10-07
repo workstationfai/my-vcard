@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Гаптрахманов;Марат;;;
+FN:Марат Гаптрахманов
+ORG:ООО "ФастЭйр Интернешнл"
+TITLE:Технический директор
+TEL;TYPE=WORK,VOICE:+7-495-120-0300
+TEL;TYPE=CELL:+7-925-466-32-28
+EMAIL:m.gaptrakhmanov@fastair.ru
+URL:https://fastair.ru
+ADR:;;Москва,;тер. Инновационного Центра Сколково,;ул. Сикорского, д. 11,;121205;Россия
+END:VCARD
