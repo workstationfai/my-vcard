@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ризина;Анна;;;
+FN:Анна Ризина
+ORG:ООО "ФастЭйр Интернешнл"
+TITLE:Специалист по ВЭД
+TEL;TYPE=WORK,VOICE:+7-495-120-0300
+TEL;TYPE=CELL:+7-925-404-65-66
+EMAIL:a.rizina@fastair.ru
+URL:https://fastair.ru
+ADR:;;Москва,;тер. Инновационного Центра Сколково,;ул. Сикорского, д. 11,;121205;Россия
+END:VCARD
