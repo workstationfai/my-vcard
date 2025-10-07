@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Добросоцкий;Александр;;;
+FN:Александр Добросоцкий
+ORG:ООО "ФастЭйр Интернешнл"
+TITLE:Менеджер по продажам
+TEL;TYPE=WORK,VOICE:+7-495-120-0300
+TEL;TYPE=CELL:+7-925-774-44-72
+EMAIL:a.dobrosotsky@fastair.ru
+URL:https://fastair.ru
+ADR:;;Москва,;тер. Инновационного Центра Сколково,;ул. Сикорского, д. 11,;121205;Россия
+END:VCARD
