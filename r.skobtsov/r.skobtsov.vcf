@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Скобцов;Роман;;;
+FN:Роман Скобцов
+ORG:ООО "ФастЭйр Интернешнл"
+TITLE:Руководитель транспортного департамента
+TEL;TYPE=WORK,VOICE:+7-495-120-0300
+TEL;TYPE=CELL:+7-985-001-1434
+EMAIL:r.skobtsov@fastair.ru
+URL:https://fastair.ru
+ADR:;;Москва,;тер. Инновационного Центра Сколково,;ул. Сикорского, д. 11,;121205;Россия
+END:VCARD
