@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Савина;Юлия;;;
+FN:Юлия Савина
+ORG:ООО "ФастЭйр Интернешнл"
+TITLE:Ведущий специалист по ВЭД
+TEL;TYPE=WORK,VOICE:+7-495-120-0300
+TEL;TYPE=CELL:+7-929-570-55-65
+EMAIL:y.savina@fastair.ru
+URL:https://fastair.ru
+ADR:;;Москва,;тер. Инновационного Центра Сколково,;ул. Сикорского, д. 11,;121205;Россия
+END:VCARD
