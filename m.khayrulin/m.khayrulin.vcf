@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Хайрулин;Марат;;;
+FN:Марат Хайрулин
+ORG:ООО "МЕТЕОР"
+TITLE:Специалист по ВЭД
+TEL;TYPE=WORK,VOICE:+7-499-455-49-35
+TEL;TYPE=CELL:+7-925-990-4859
+EMAIL:m.khayrulin@meteor-logistic.ru
+URL:https://meteor-logistic.ru
+ADR:;;Москва,;ул. Новый Арбат, д. 30/9, помещение 2Н, комната 3,;;121099;Россия
+END:VCARD
