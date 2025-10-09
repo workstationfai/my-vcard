@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Скачать Контакт</title>
+  <meta http-equiv="Content-Type" content="text/vcard">
+  <meta http-equiv="Content-Disposition" content="attachment; filename=d.kogteva.vcf">
+</head>
+<body>
+  <p>Скачивание контакта начнётся автоматически.</p>
+  <a id="download-link" href="../d.kogteva/d.kogteva.vcf" download="d.kogteva.vcf">Нажмите, если не началось</a>
+  <script>
+    window.onload = function() {
+      var userAgent = navigator.userAgent.toLowerCase();
+      if (userAgent.indexOf('android') > -1) {
+        window.location.href = "intent://raw.githubusercontent.com/workstationfai/my-vcard/refs/heads/main/d.kogteva/d.kogteva.vcf#Intent;type=text/vcard;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;end";
+      } else {
+        window.location.href = "../d.kogteva/d.kogteva.vcf?download=true";
+      }
+    };
+  </script>
+</body>
+</html>
