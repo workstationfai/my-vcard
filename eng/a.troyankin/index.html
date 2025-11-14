@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Download Contact</title>
+  <meta http-equiv="Content-Type" content="text/vcard">
+  <meta http-equiv="Content-Disposition" content="attachment; filename=a.troyankin.vcf">
+</head>
+<body>
+  <p>Contact download will start automatically.</p>
+  <a id="download-link" href="../eng/a.troyankin/a.troyankin_eng.vcf" download="a.troyankin_eng.vcf">Click here to download manually</a>
+  <script>
+    window.onload = function() {
+      var userAgent = navigator.userAgent.toLowerCase();
+      if (userAgent.indexOf('android') > -1) {
+        window.location.href = "intent://raw.githubusercontent.com/workstationfai/my-vcard/refs/heads/main/eng/a.troyankin/a.troyankin_eng.vcf#Intent;type=text/vcard;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;end";
+      } else {
+        window.location.href = "../eng/a.troyankin/a.troyankin_eng.vcf?download=true";
+      }
+    };
+  </script>
+</body>
+</html>
