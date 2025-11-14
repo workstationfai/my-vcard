@@ -1,1 +1,12 @@
-
+BEGIN:VCARD
+VERSION:3.0
+N:Khobotova;Natalia;;;
+FN:Natalia Khobotova
+ORG:ООО "FastAir International"
+TITLE:Business Development Director
+TEL;TYPE=WORK,VOICE:+7-495-120-0300
+TEL;TYPE=CELL:+7(925)265-33-22
+EMAIL:n.khobotova@fastair.ru
+URL:https://fastair.ru
+ADR:;;Moscow,;Skolkovo,;Sikorskogo st., 11,;121205;Russia
+END:VCARD
