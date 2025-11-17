@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sidorov;Mikhail;;;
+FN:Mikhail Sidorov
+ORG:FastAir International
+TITLE:Director of Strategic Development
+TEL;TYPE=WORK,VOICE:+7-495-120-0300
+TEL;TYPE=CELL:+7-926-400-35-33
+EMAIL:m.sidorov@fastair.ru
+URL:https://fastair.ru
+ADR:;;Moscow,;Skolkovo,;Sikorskogo st., 11,;121205;Russia
+END:VCARD
