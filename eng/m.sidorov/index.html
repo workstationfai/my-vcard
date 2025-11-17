@@ -1,1 +1,24 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Download Contact</title>
+  <meta http-equiv="Content-Type" content="text/vcard">
+  <meta http-equiv="Content-Disposition" content="attachment; filename=m.sidorov.vcf">
+</head>
+<body>
+  <p>Download will start automatically</p>
+  <a id="download-link" href="../m.sidorov/m.sidorov.vcf" download="m.sidorov.vcf">Click here to download manually</a>
+  <script>
+    window.onload = function() {
+      var userAgent = navigator.userAgent.toLowerCase();
+      if (userAgent.indexOf('android') > -1) {
+        window.location.href = "intent://raw.githubusercontent.com/workstationfai/my-vcard/refs/heads/main/m.sidorov/m.sidorov.vcf#Intent;type=text/vcard;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;end";
+      } else {
+        window.location.href = "../m.sidorov/m.sidorov.vcf?download=true";
+      }
+    };
+  </script>
+</body>
+</html>
