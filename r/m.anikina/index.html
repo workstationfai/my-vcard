@@ -9,14 +9,14 @@
 </head>
 <body>
   <p>Скачивание контакта начнётся автоматически.</p>
-  <a id="download-link" href="../r/m.anikina/m.anikina.vcf" download="m.anikina.vcf">Нажмите, если не началось</a>
+  <a id="download-link" href="../m.anikina/m.anikina.vcf" download="m.anikina.vcf">Нажмите, если не началось</a>
   <script>
     window.onload = function() {
       var userAgent = navigator.userAgent.toLowerCase();
       if (userAgent.indexOf('android') > -1) {
         window.location.href = "intent://raw.githubusercontent.com/workstationfai/my-vcard/refs/heads/main/r/m.anikina/m.anikina.vcf#Intent;type=text/vcard;action=android.intent.action.VIEW;category=android.intent.category.BROWSABLE;end";
       } else {
-        window.location.href = "../r/m.anikina/m.anikina.vcf?download=true";
+        window.location.href = "../m.anikina/m.anikina.vcf?download=true";
       }
     };
   </script>
