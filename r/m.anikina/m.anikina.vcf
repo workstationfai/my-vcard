@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Марина;Аникина;;;
+FN:Марина Аникина
+ORG:Руслайн
+TITLE:Менеджер по развитию
+TEL;TYPE=WORK,VOICE:+7-495-120-0300
+TEL;TYPE=CELL:+7-925-036-16-83
+EMAIL:m.anikina@rusline.aero
+URL:https://rusline.aero
+END:VCARD
